@@ -18,3 +18,9 @@ A number of jupyter notebooks have been included that illustrate the use of thes
 4) The code makes use of Modified Raoult's law and gives good results only at lower and close to atmospheric pressures. High pressure VLE would require the introduction of fugacities which are currently not made available
 5) The activity coefficients have been tested and are found to give good results for VLE calculations. The module has not been extensively tested on LLE data and is not recommended for LLE flash calculations. Also, the activity coefficients close to infinite dilution are not very accurate. Thus it is recommended to use this module only for low pressure VLE calculations as of now
 6) The flash solver is not designed to handle non-condensables and supercritical components as of now
+7) For more information on how to construct compounds useing sub-groups you may refer to the appendix of [1] 
+
+## References 
+[1]	S. Walas, Phase Equilibria in Chemical Engineering. 
+[2]	J. Gmehling, M. Kleiber, B. Kolbe, and K. Rarey, Chemical Thermodynamics for Process Simulation, Second edition. Wiley-VCH.
+
