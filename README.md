@@ -21,6 +21,6 @@ A number of jupyter notebooks have been included that illustrate the use of thes
 7) For more information on how to construct compounds useing sub-groups you may refer to the appendix of [1] 
 
 ## References 
-[1]	S. Walas, Phase Equilibria in Chemical Engineering. 
-[2]	J. Gmehling, M. Kleiber, B. Kolbe, and K. Rarey, Chemical Thermodynamics for Process Simulation, Second edition. Wiley-VCH.
+[1]	S. Walas, *Phase Equilibria in Chemical Engineering*.  
+[2]	J. Gmehling, M. Kleiber, B. Kolbe, and K. Rarey, *Chemical Thermodynamics for Process Simulation*, Second edition. Wiley-VCH.
 
