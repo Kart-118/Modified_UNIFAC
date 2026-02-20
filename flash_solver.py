@@ -128,39 +128,4 @@ def VLE_flash_PT(comp :md.Compound,P,T,Z,params):
         return alpha,X,Y 
     
 
-# prop = md.Compound('Propane') 
-# but = md.Compound('Butane') 
-# pent = md.Compound('Pentane') 
-# hexx = md.Compound('Hexane') 
-
-# wat = md.Compound('Water') 
-# eth = md.Compound('Ethanol') 
-# prop.add_groups(1,2) 
-# prop.add_groups(2,1) 
-
-# but.add_groups(1,2)
-# but.add_groups(2,2) 
-
-# pent.add_groups(1,2) 
-# pent.add_groups(2,3) 
-
-# hexx.add_groups(1,2) 
-# hexx.add_groups(2,4) 
-
-# comp = [prop,but,pent,hexx] 
-# params = md.generate_params(comp) 
-
-# Z = [0.3,0.1,0.15,0.45]
-# print(VLE_flash_PT(comp,2,50+273.15,Z,params))
-# wat.add_groups(16,1) 
-# eth.add_groups(1,1) 
-# eth.add_groups(2,1) 
-# eth.add_groups(14,1) 
-
-# comp = [eth,wat] 
-# params = md.generate_params(comp) 
-
-# print(P_bubble(comp,80+273.15,[0.5,0.5],params,bool = True)) 
-
-# print(P_dew(comp,80+273.15,[0.6576469, 0.3423531],params,bool = True))  
 
